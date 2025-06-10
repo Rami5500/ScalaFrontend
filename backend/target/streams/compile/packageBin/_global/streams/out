@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Cognizant\Scala\FrontendPortal\backend\target\scala-3.3.1\backend_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	backend[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Cognizant\Scala\FrontendPortal\backend\target\scala-3.3.1\classes\backend[0m
+[0m[[0m[0mdebug[0m] [0m[0m	backend\Server$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Cognizant\Scala\FrontendPortal\backend\target\scala-3.3.1\classes\backend\Server$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	backend\Server$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Cognizant\Scala\FrontendPortal\backend\target\scala-3.3.1\classes\backend\Server$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	backend\Server$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Cognizant\Scala\FrontendPortal\backend\target\scala-3.3.1\classes\backend\Server$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	backend\Server.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Cognizant\Scala\FrontendPortal\backend\target\scala-3.3.1\classes\backend\Server.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	backend\Server.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Cognizant\Scala\FrontendPortal\backend\target\scala-3.3.1\classes\backend\Server.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

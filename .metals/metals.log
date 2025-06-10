@@ -1,0 +1,820 @@
+2025.06.10 22:42:49 INFO  Started: Metals version 1.6.0 in folders 'C:\Cognizant\Scala\FrontendPortal' for client Visual Studio Code 1.100.2.
+2025.06.10 22:42:52 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:42:54 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:42:54 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:42:54 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:42:54 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+Jun 10, 2025 10:42:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+Jun 10, 2025 10:42:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2025.06.10 22:42:59 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:42:59 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\build.sbt
+2025.06.10 22:43:01 INFO  time: code lens generation in 1.41s
+2025.06.10 22:43:01 INFO  time: code lens generation in 1.41s
+2025.06.10 22:43:02 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:44:01 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:44:01 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt
+2025.06.10 22:44:01 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:44:01 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:44:01 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:44:01 WARN  Could not find semantic tokens for: file:///C:/Cognizant/Scala/FrontendPortal/project/plugins.sbt
+2025.06.10 22:44:01 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:44:01 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:44:01 WARN  Could not find semantic tokens for: file:///C:/Cognizant/Scala/FrontendPortal/project/plugins.sbt
+2025.06.10 22:44:02 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:44:02 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:44:03 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:44:03 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:44:04 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:44:04 WARN  Could not find semantic tokens for: file:///C:/Cognizant/Scala/FrontendPortal/project/plugins.sbt
+2025.06.10 22:44:04 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:44:04 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:44:04 WARN  Could not find semantic tokens for: file:///C:/Cognizant/Scala/FrontendPortal/project/plugins.sbt
+2025.06.10 22:44:06 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:44:06 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:44:06 WARN  Could not find semantic tokens for: file:///C:/Cognizant/Scala/FrontendPortal/project/plugins.sbt
+2025.06.10 22:44:08 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:44:08 WARN  Could not find semantic tokens for: file:///C:/Cognizant/Scala/FrontendPortal/project/plugins.sbt
+2025.06.10 22:44:13 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:44:15 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:44:15 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:44:15 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:44:15 WARN  Could not find semantic tokens for: file:///C:/Cognizant/Scala/FrontendPortal/project/plugins.sbt
+2025.06.10 22:44:17 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:44:17 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:44:17 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:44:17 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+Jun 10, 2025 10:44:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 55
+Jun 10, 2025 10:44:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 56
+Jun 10, 2025 10:44:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 57
+2025.06.10 22:44:17 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:44:17 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:44:17 WARN  Could not find semantic tokens for: file:///C:/Cognizant/Scala/FrontendPortal/project/plugins.sbt
+2025.06.10 22:44:32 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:44:38 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt
+2025.06.10 22:44:38 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 22:44:38 INFO  skipping build import with status 'Dismissed'
+2025.06.10 22:44:38 WARN  Could not find semantic tokens for: file:///C:/Cognizant/Scala/FrontendPortal/project/plugins.sbt
+2025.06.10 23:35:08 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:35:08 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:35:08 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala
+2025.06.10 23:35:10 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:35:10 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:35:10 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:35:10 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Jun 10, 2025 11:35:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 77
+2025.06.10 23:35:10 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:35:12 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:35:12 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:35:13 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:35:13 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:35:13 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:35:14 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:35:17 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:35:17 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:35:48 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\shared\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:35:48 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\shared\src\main\scala\shared\User.scala
+2025.06.10 23:35:48 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\shared\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:35:49 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\shared\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:35:48 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\shared\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:35:48 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\shared\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:36:05 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\build.sbt
+2025.06.10 23:36:05 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:36:05 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:36:05 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:36:35 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:34 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala
+2025.06.10 23:37:34 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:34 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:34 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:34 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:37 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:37 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:37 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:39 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:39 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:39 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:39 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:40 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:40 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:40 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:40 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:40 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:41 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:41 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:43 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:43 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:43 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:44 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:44 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:45 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:45 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:47 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:49 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:49 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:49 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:49 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:49 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:50 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:37:53 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:38:11 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:38:11 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:38:13 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:38:13 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:38:14 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:38:15 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:38:15 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:38:15 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:38:16 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:38:17 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:38:17 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:38:17 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:38:17 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:38:17 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:38:18 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:38:18 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:38:18 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:38:18 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:38:18 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:38:18 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:38:18 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:38:20 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:38:21 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:38:22 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:38:21 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:38:22 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:38:21 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:38:22 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:13 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:13 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:13 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:13 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:13 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:13 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:13 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:14 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:14 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:14 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:14 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:14 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:14 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:14 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:14 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:15 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:15 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:16 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:16 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:16 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:16 INFO  Created report: Optional[file:///C:/Cognizant/Scala/FrontendPortal/backend/src/main/scala/backend/Server.scala]
+2025.06.10 23:39:16 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Cognizant\Scala\FrontendPortal\.metals\.reports\metals-full\2025-06-10\r_empty-definition_23-39-16-470.md")
+2025.06.10 23:39:16 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:16 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:17 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:16 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:16 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:17 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:17 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:17 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:31 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:32 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:34 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:35 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:35 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:36 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:36 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:35 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:35 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:35 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:35 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:36 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:36 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:35 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:35 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:36 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:37 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:37 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:40 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:40 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:41 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:40 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:41 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:42 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:42 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:42 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:42 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:43 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:43 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:43 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:43 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:58 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:39:58 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:40:00 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:40:00 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:40:01 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:40:01 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:40:01 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:40:01 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:40:02 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:40:02 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:40:02 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:40:04 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:40:04 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:40:04 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:40:04 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:40:04 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:40:04 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:40:05 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:40:05 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala
+2025.06.10 23:40:05 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:41:29 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:41:29 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:41:30 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:41:30 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:41:30 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:41:30 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:41:30 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:41:30 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:41:31 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:41:31 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:41:31 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:41:31 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:41:31 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:41:32 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala
+2025.06.10 23:41:32 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:44:45 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:45:13 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\build.sbt
+2025.06.10 23:45:13 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:45:13 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:45:13 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:45:13 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:45:24 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:45:24 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:45:24 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:45:25 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:45:25 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:45:25 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:45:27 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:45:28 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:45:30 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\build.sbt
+2025.06.10 23:45:30 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:48:04 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:48:04 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:48:06 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:48:10 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:48:10 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\build.sbt
+2025.06.10 23:48:10 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:48:10 INFO  skipping build import with status 'Dismissed'
+2025.06.10 23:48:31 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:48:31 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:48:31 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:48:31 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\build.sbt
+2025.06.10 23:48:31 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:48:31 INFO  skipping build import with status 'Dismissed'
+2025.06.10 23:48:31 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:48:32 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\build.sbt
+2025.06.10 23:48:31 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:48:31 INFO  skipping build import with status 'Dismissed'
+2025.06.10 23:48:31 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:04 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:04 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:05 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:05 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:05 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:05 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:05 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:06 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:06 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:07 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:06 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:06 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:06 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:07 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:06 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:07 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:07 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:07 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:07 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:07 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:07 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:07 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:08 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:07 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:08 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:08 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:08 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:09 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:08 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:09 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:10 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:10 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\build.sbt
+2025.06.10 23:49:10 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:49:09 INFO  skipping build import with status 'Dismissed'
+2025.06.10 23:50:11 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:50:12 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:50:50 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\shared\src\main\scala\shared\User.scala
+2025.06.10 23:50:50 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\shared\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:50:50 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\shared\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:50:50 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\shared\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:50:54 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\shared\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:50:54 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\shared\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:50:54 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\shared\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:50:54 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\shared\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:53:33 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala
+2025.06.10 23:53:33 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:53:33 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:53:33 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:53:33 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:53:35 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:53:35 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:53:35 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:53:51 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:53:51 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:53:51 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:53:52 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:53:52 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:53:52 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:53:54 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:53:54 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:53:54 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:53:54 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:53:56 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:53:56 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:53:56 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:53:56 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:00 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:00 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:00 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:00 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:00 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:00 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:01 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:00 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:01 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:01 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:01 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:01 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:01 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:01 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:01 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:01 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:01 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:01 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:01 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:01 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:01 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:02 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:02 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:02 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:02 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:02 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:02 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Jun 10, 2025 11:54:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 550
+2025.06.10 23:54:03 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:02 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:02 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:02 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:02 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:02 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:02 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:03 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:03 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:03 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:03 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:03 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:03 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:03 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:04 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:04 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:04 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:04 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:04 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:05 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:04 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:04 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:04 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:04 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:04 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:05 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:05 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:05 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:05 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:05 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:05 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:06 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:06 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:07 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:07 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:07 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Jun 10, 2025 11:54:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 601
+2025.06.10 23:54:07 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:07 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:07 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:08 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:13 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:13 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala
+2025.06.10 23:54:13 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\shared\src\main\scala\shared\User.scala
+2025.06.10 23:54:13 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:54:13 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:55:17 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:55:27 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:55:41 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:55:41 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:55:53 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:55:53 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:55:53 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:55:53 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:55:53 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:55:53 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:55:54 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:55:53 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:55:54 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:55:54 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:55:54 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:55:54 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:55:54 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:55:54 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:55:55 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:55:54 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:55:55 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:55:55 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:55:55 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:55:55 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:55:55 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:55:55 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:55:55 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:55:59 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:55:59 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala
+2025.06.10 23:55:59 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Cognizant\Scala\FrontendPortal\.metals\.reports\metals-full\2025-06-10\r_empty-definition_23-39-16-470.md")
+2025.06.10 23:55:59 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:56:56 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:56:58 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt
+2025.06.10 23:56:58 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:56:58 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:56:58 WARN  Could not find semantic tokens for: file:///C:/Cognizant/Scala/FrontendPortal/project/plugins.sbt
+2025.06.10 23:56:58 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:57:16 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:57:17 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:57:17 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:57:18 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:57:18 WARN  Could not find semantic tokens for: file:///C:/Cognizant/Scala/FrontendPortal/project/plugins.sbt
+2025.06.10 23:57:19 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt
+2025.06.10 23:57:19 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:57:19 WARN  Could not find semantic tokens for: file:///C:/Cognizant/Scala/FrontendPortal/project/plugins.sbt
+2025.06.10 23:57:23 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\build.sbt
+2025.06.10 23:57:23 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:57:23 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:57:23 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:57:29 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:57:31 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:57:33 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:57:34 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:57:34 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:57:35 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\build.sbt
+2025.06.10 23:57:35 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:58:58 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:58:58 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:58:58 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:58:58 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:58:58 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.10 23:59:00 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\build.sbt
+2025.06.10 23:59:00 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:00:32 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:00:34 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:00:34 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:00:34 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:00:35 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:00:35 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:00:35 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:00:35 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:00:48 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:00:48 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:00:48 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:00:51 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:00:51 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:00:52 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:00:52 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:00:52 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:00:52 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:00:53 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:00:53 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:00:55 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:00:55 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:00:55 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:00:56 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:00:56 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:00:56 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:00:57 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:00:56 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:01:40 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:01:45 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:01:45 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\build.sbt
+2025.06.11 00:01:46 INFO  Shutting down server
+2025.06.11 00:01:46 INFO  shutting down Metals
+2025.06.11 00:01:46 INFO  Exiting server
+2025.06.11 00:02:36 INFO  Started: Metals version 1.6.0 in folders 'C:\Cognizant\Scala\FrontendPortal' for client Visual Studio Code 1.100.2.
+2025.06.11 00:02:39 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+Jun 11, 2025 12:02:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2025.06.11 00:02:41 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:02:41 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:02:41 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:02:41 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+Jun 11, 2025 12:02:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+Jun 11, 2025 12:02:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2025.06.11 00:07:59 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:08:00 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:08:00 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:08:00 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:08:00 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:08:02 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:08:02 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:08:02 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:08:02 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:08:03 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:08:04 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:08:12 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:08:15 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:08:15 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:08:15 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:08:15 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:08:16 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:08:17 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:08:38 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:08:38 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\build.sbt
+2025.06.11 00:08:38 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:10:49 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:11:04 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:11:12 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:12:09 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:12:42 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\shared\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:12:43 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\shared\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Jun 11, 2025 12:12:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 48
+2025.06.11 00:12:42 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\shared\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:13:37 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:13:37 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Jun 11, 2025 12:13:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 56
+2025.06.11 00:13:37 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:14:06 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:14:07 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:14:07 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:14:07 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:14:07 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:14:07 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:14:08 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:14:07 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:14:08 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:14:08 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:14:08 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:14:09 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:14:09 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:14:10 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:14:09 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:14:09 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:14:09 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:14:10 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:14:13 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:14:16 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:14:16 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala
+2025.06.11 00:14:16 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:15:20 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:15:20 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:15:20 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:15:20 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:15:22 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:15:22 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:15:22 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:15:22 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Jun 11, 2025 12:15:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 132
+Jun 11, 2025 12:15:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 134
+2025.06.11 00:15:22 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Jun 11, 2025 12:15:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 138
+2025.06.11 00:15:22 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:15:22 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:15:23 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:15:24 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:15:24 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala
+2025.06.11 00:15:24 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:15:52 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\build.sbt
+2025.06.11 00:15:52 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:15:52 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:15:52 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:15:52 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:15:52 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:15:53 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:15:53 INFO  Created report: Optional[file:///C:/Cognizant/Scala/FrontendPortal/build.sbt]
+2025.06.11 00:15:53 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Cognizant\Scala\FrontendPortal\.metals\.reports\metals-full\2025-06-11\r_empty-definition_00-15-53-589.md")
+2025.06.11 00:15:53 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:16:09 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:16:18 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\shared\src\main\scala\shared\User.scala
+2025.06.11 00:16:18 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\shared\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:16:18 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\shared\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:16:18 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\shared\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:16:20 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\shared\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:16:37 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala
+2025.06.11 00:16:37 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:16:37 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:16:37 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:16:38 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:17:21 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:21:00 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\shared\js\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:21:00 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\shared\js\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:21:02 INFO  no build target found for c:\Cognizant\Scala\FrontendPortal\shared\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:33:07 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\shared\js\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:39:03 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:39:04 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Jun 11, 2025 12:39:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 247
+2025.06.11 00:39:04 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:39:06 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:39:08 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:39:19 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:39:19 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:39:20 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:39:20 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:39:20 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:39:21 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:39:32 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:39:32 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala
+2025.06.11 00:39:32 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:39:32 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:39:50 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:39:52 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:39:52 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:40:10 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:40:10 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:40:10 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:40:12 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:41:40 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:42:28 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:45:44 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala
+2025.06.11 00:45:44 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:45:44 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Jun 11, 2025 12:45:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 288
+2025.06.11 00:45:44 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:45:44 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:45:45 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:45:45 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:45:46 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:45:46 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:45:46 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:45:46 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:45:46 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:45:47 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:45:48 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:45:48 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:45:48 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:45:49 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:45:49 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:45:53 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala
+2025.06.11 00:45:53 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:45:53 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:46:30 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:01 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:01 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:01 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:01 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:02 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:02 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:03 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:03 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:10 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:10 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:11 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:11 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:11 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:12 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:11 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:12 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\Cognizant\Scala\FrontendPortal\.metals\.reports\metals-full\2025-06-10\r_empty-definition_23-39-16-470.md")
+2025.06.11 00:47:12 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:13 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:13 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:13 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:13 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:14 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:15 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:15 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:15 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:15 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:33 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:35 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:35 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala
+2025.06.11 00:47:35 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:35 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:49 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala
+2025.06.11 00:47:49 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:49 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:49 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:49 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:47:49 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:53:23 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\shared\js\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:53:23 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\shared\js\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:53:26 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\shared\js\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:53:26 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\shared\jvm\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:53:26 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\shared\jvm\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:53:31 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\build.sbt
+2025.06.11 00:53:31 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:53:31 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:53:31 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:53:34 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:53:34 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:53:37 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:53:37 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:53:37 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:53:37 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:53:39 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:53:39 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:53:40 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:53:40 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:53:41 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:53:44 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\shared\jvm\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:53:47 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\build.sbt
+2025.06.11 00:53:47 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:53:47 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:53:52 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala
+2025.06.11 00:53:52 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:53:52 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:53:52 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:53:52 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:53:55 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:53:55 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:53:55 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:53:57 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:00 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:00 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:01 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:01 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:02 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:02 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:06 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:08 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala
+2025.06.11 00:54:08 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:08 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:08 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:10 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:10 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:11 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:11 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:11 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:11 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:11 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:12 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:12 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:13 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:13 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:13 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:13 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:14 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:13 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:18 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:18 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:18 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:19 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:19 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:19 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:19 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:20 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:19 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:22 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:22 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:23 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:23 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:23 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:23 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:24 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:25 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:25 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:26 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:26 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:26 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:26 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:27 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:27 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:27 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:28 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:33 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala
+2025.06.11 00:54:33 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:33 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\build.sbt
+2025.06.11 00:54:33 WARN  no build target for: C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala
+2025.06.11 00:54:33 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:33 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:33 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:33 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:54:33 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:56:07 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:56:09 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 00:56:09 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
