@@ -1,3 +1,14 @@
+error id: file:///C:/GitHub/ScalaFrontend/frontend/src/main/scala/Main.scala:`<none>`.
+file:///C:/GitHub/ScalaFrontend/frontend/src/main/scala/Main.scala
+empty definition using pc, found symbol in pc: `<none>`.
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 819
+uri: file:///C:/GitHub/ScalaFrontend/frontend/src/main/scala/Main.scala
+text:
+```scala
 import com.raquo.laminar.api.L.*
 import org.scalajs.dom
 import scala.scalajs.js.annotation.*
@@ -21,21 +32,15 @@ val appElement = div(
   ),
   div(
     cls := "content",
-    
+    ul(cls := "feature-list",
+  li("✅ Built with Scala 3, Laminar, and HTTP4s"),
+  li("✅ Reactive UI using Laminar's observable system"),
+  li("✅ Backend/Frontend shared models@@ using crossProject"),
+  li("✅ Hosted locally and ready for GitHub deployment")
+)
+
     child <-- usersVar.signal.map {
       case Nil => div("Welcome to Home Page", cls := "home-message")
-      case _   => emptyNode
-    },
-
-    ul(cls := "feature-list",
-      li("Built with Scala 3, Laminar, and HTTP4s"),
-      li("Reactive UI using Laminar's observable system"),
-      li("Backend/Frontend shared models using crossProject"),
-      li("Hosted locally and ready for GitHub deployment")
-    ),
-
-    child <-- usersVar.signal.map {
-      case Nil => emptyNode
       case users => ul(
         cls := "user-list",
         children <-- Val(users.map(user =>
@@ -48,12 +53,9 @@ val appElement = div(
         ))
       )
     }
-  ),
-  footer(
-    cls := "footer",
-    p("© 2025 Frontend Portal. All rights reserved.")
   )
 )
+
 
 def fetchUsers(): Unit = {
   import org.scalajs.dom.ext.Ajax
@@ -65,3 +67,10 @@ def fetchUsers(): Unit = {
 }
 
 given ReadWriter[User] = macroRW
+
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: `<none>`.
