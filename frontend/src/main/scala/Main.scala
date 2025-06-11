@@ -25,11 +25,19 @@ val appElement = div(
       case Nil => div("Welcome to Home Page", cls := "home-message")
       case users => ul(
         cls := "user-list",
-        children <-- Val(users.map(user => li(s"${user.id}: ${user.name}", cls := "user-item")))
+        children <-- Val(users.map(user =>
+          li(cls := "user-item",
+            div(b("Name: "), user.name),
+            div(b("Email: "), user.email),
+            div(b("Age: "), user.age.toString),
+            div(b("Active: "), if (user.isActive) "✅" else "❌")
+          )
+        ))
       )
     }
   )
 )
+
 
 def fetchUsers(): Unit = {
   import org.scalajs.dom.ext.Ajax

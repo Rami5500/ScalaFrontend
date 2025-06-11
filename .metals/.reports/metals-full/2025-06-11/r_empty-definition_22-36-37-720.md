@@ -1,3 +1,14 @@
+error id: file:///C:/GitHub/ScalaFrontend/backend/src/main/scala/backend/Server.scala:`<none>`.
+file:///C:/GitHub/ScalaFrontend/backend/src/main/scala/backend/Server.scala
+empty definition using pc, found symbol in pc: `<none>`.
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 376
+uri: file:///C:/GitHub/ScalaFrontend/backend/src/main/scala/backend/Server.scala
+text:
+```scala
 package backend
 
 import cats.effect.*
@@ -14,11 +25,7 @@ import org.http4s.server.middleware.CORS
 
 object Server extends IOApp {
 
-  val users = List(
-    User(1, "Alice", "alice@example.com", 30, true),
-    User(2, "Bob", "bob@example.com", 42, false),
-    User(3, "Charlie", "charlie@example.com", 25, true)
-  )
+  @@val users = List(User(1, "Alice"), User(2, "Bob"))
 
   val userRoutes = HttpRoutes.of[IO] {
     case GET -> Root / "api" / "users" =>
@@ -38,3 +45,9 @@ object Server extends IOApp {
   }
 
 }
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: `<none>`.
