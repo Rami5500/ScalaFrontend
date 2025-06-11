@@ -818,3 +818,153 @@ WARNING: Unmatched cancel notification for request id 288
 2025.06.11 00:56:07 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
 2025.06.11 00:56:09 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
 2025.06.11 00:56:09 INFO  no build target found for C:\Cognizant\Scala\FrontendPortal\backend\src\main\scala\backend\Server.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 17:26:49 INFO  Started: Metals version 1.6.0 in folders 'C:\GitHub\ScalaFrontend' for client Visual Studio Code 1.100.2.
+2025.06.11 17:28:20 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 17:28:20 WARN  no build target for: C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala
+2025.06.11 17:28:20 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 17:28:21 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 17:28:27 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 17:28:27 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Jun 11, 2025 5:28:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+Jun 11, 2025 5:28:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+2025.06.11 17:28:27 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 17:28:30 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 17:28:31 INFO  time: code lens generation in 3.69s
+2025.06.11 17:28:31 INFO  time: code lens generation in 3.67s
+2025.06.11 17:28:31 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 17:28:31 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 17:28:51 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 17:28:56 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 17:28:57 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 17:28:57 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 17:28:57 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 17:29:00 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 17:29:00 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 17:29:00 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 17:29:13 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 17:30:32 WARN  no build target for: C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala
+2025.06.11 17:33:50 WARN  no build target for: C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala
+2025.06.11 17:33:50 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 17:33:50 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 17:33:50 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 17:33:50 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 17:33:59 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 17:34:22 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Exception in thread "pool-12-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2025.06.11 17:34:40 WARN  no build target for: C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala
+2025.06.11 17:34:40 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 17:34:40 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 17:34:40 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 20:51:58 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 20:52:04 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 20:52:04 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Jun 11, 2025 8:52:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 78
+Jun 11, 2025 8:52:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 79
+Jun 11, 2025 8:52:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 77
+Jun 11, 2025 8:52:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 80
+2025.06.11 20:52:04 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 20:52:05 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 20:52:05 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Jun 11, 2025 8:52:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 82
+Jun 11, 2025 8:52:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 83
+2025.06.11 20:56:34 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 20:59:07 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 21:17:08 INFO  Started: Metals version 1.6.0 in folders 'C:\GitHub\ScalaFrontend' for client Visual Studio Code 1.100.2.
+2025.06.11 21:22:50 INFO  Shutting down server
+2025.06.11 21:22:50 INFO  shutting down Metals
+2025.06.11 21:22:50 INFO  Exiting server
+2025.06.11 21:22:50 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:840)
+
+2025.06.11 21:23:31 INFO  Started: Metals version 1.6.0 in folders 'C:\GitHub\ScalaFrontend' for client Visual Studio Code 1.100.3.
+Jun 11, 2025 9:24:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.06.11 22:29:35 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:29:35 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:29:35 WARN  no build target for: C:\GitHub\ScalaFrontend\build.sbt
+2025.06.11 22:29:38 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:29:38 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+Jun 11, 2025 10:29:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+2025.06.11 22:29:38 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:29:39 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:29:41 INFO  time: code lens generation in 2.91s
+2025.06.11 22:29:47 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:29:49 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:29:49 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:29:51 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:29:52 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:29:52 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:30:01 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:30:38 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:30:43 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:30:43 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:30:46 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:30:47 INFO  Created report: Optional[file:///C:/GitHub/ScalaFrontend/build.sbt]
+2025.06.11 22:30:47 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "C:\GitHub\ScalaFrontend\.metals\.reports\metals-full\2025-06-11\r_empty-definition_22-30-47-214.md")
+2025.06.11 22:30:47 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:30:48 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:30:48 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:30:48 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:30:50 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:30:51 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:30:51 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:30:52 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:30:53 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:30:53 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:30:53 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:31:01 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:31:03 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:31:12 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:31:12 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:31:14 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:31:14 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:31:15 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:31:15 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:31:15 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:31:17 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:31:17 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:31:17 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:31:17 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:31:17 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:31:19 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:31:19 WARN  no build target for: C:\GitHub\ScalaFrontend\build.sbt
+2025.06.11 22:31:19 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:31:20 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:31:22 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:31:22 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:31:22 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:33:17 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:33:24 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:34:38 INFO  no build target found for C:\GitHub\ScalaFrontend\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:34:51 INFO  no build target found for C:\GitHub\ScalaFrontend\shared\js\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:34:51 WARN  no build target for: C:\GitHub\ScalaFrontend\shared\js\src\main\scala\shared\User.scala
+2025.06.11 22:34:51 INFO  no build target found for C:\GitHub\ScalaFrontend\shared\js\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:34:51 INFO  no build target found for C:\GitHub\ScalaFrontend\shared\js\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:34:51 INFO  no build target found for C:\GitHub\ScalaFrontend\shared\js\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:34:51 INFO  no build target found for C:\GitHub\ScalaFrontend\shared\js\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.11 22:34:52 INFO  no build target found for C:\GitHub\ScalaFrontend\shared\js\src\main\scala\shared\User.scala. Using presentation compiler with project's scala-library version: 3.3.6

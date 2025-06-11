@@ -12,16 +12,23 @@ import upickle.default.*
 val usersVar = Var[List[User]](Nil)
 
 val appElement = div(
-  h1("Frontend Portal"),
+  h1("Frontend Portal", cls := "title"),
   nav(
-    a(href := "#", "Home", onClick --> (_ => usersVar.set(Nil))),
-    " | ",
-    a(href := "#users", "Users", onClick --> (_ => fetchUsers()))
+    cls := "navbar",
+    a(href := "#", "Home", onClick --> (_ => usersVar.set(Nil)), cls := "nav-link"),
+    span(" | "),
+    a(href := "#users", "Users", onClick --> (_ => fetchUsers()), cls := "nav-link")
   ),
-  child <-- usersVar.signal.map {
-    case Nil => div("Welcome to Home Page")
-    case users => ul(children <-- Val(users.map(user => li(s"${user.id}: ${user.name}"))))
-  }
+  div(
+    cls := "content",
+    child <-- usersVar.signal.map {
+      case Nil => div("Welcome to Home Page", cls := "home-message")
+      case users => ul(
+        cls := "user-list",
+        children <-- Val(users.map(user => li(s"${user.id}: ${user.name}", cls := "user-item")))
+      )
+    }
+  )
 )
 
 def fetchUsers(): Unit = {

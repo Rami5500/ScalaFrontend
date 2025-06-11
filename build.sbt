@@ -25,8 +25,16 @@ lazy val frontend = project
     libraryDependencies ++= Seq(
       "com.raquo" %%% "laminar" % "0.14.2",
       "com.lihaoyi" %%% "upickle" % "3.1.0"
-    )
+    ),
+    
+    Compile / resourceGenerators += Def.task {
+      val css = (Compile / resourceDirectory).value / "styles.css"
+      val out = (Compile / resourceManaged).value / "styles.css"
+      IO.copyFile(css, out)
+      Seq(out)
+    }.taskValue
   )
+
 
 lazy val backend = project
   .in(file("backend"))
@@ -47,3 +55,10 @@ lazy val root = (project in file("."))
   .settings(
     name := "frontendportal"
   )
+
+Compile / resourceGenerators += Def.task {
+  val css = (Compile / resourceDirectory).value / "styles.css"
+  val out = (Compile / resourceManaged).value / "styles.css"
+  IO.copyFile(css, out)
+  Seq(out)
+}
