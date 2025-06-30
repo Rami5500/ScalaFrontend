@@ -1,1 +1,1 @@
-["sbt.Task[scala.collection.Seq[java.lang.String]]",["ModuleInitializer(initializer=MainMethodWithArgs(className=runApp,encodedMainMethodName=main;[Ljava.lang.String;V,args=List()),moduleID=main)"]]
+["sbt.Task[scala.collection.Seq[java.lang.String]]",["ModuleInitializer(initializer=MainMethodWithArgs(className=frontend.runApp,encodedMainMethodName=main;[Ljava.lang.String;V,args=List()),moduleID=main)"]]
