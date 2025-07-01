@@ -33,13 +33,20 @@ lazy val backend = project
   .in(file("backend"))
   .dependsOn(shared.jvm)
   .settings(
-    name := "backend",
+    name := "backend", 
     libraryDependencies ++= Seq(
       "org.http4s" %% "http4s-dsl"           % http4sVersion,
       "org.http4s" %% "http4s-ember-server"  % http4sVersion,
       "org.http4s" %% "http4s-circe"         % http4sVersion,
       "io.circe"   %% "circe-generic"        % circeVersion,
+      "com.github.jwt-scala" %% "jwt-core" % "9.4.4",
+      "org.typelevel" %% "cats-effect" % "3.5.0",
+      "org.http4s" %% "http4s-server" % http4sVersion,
       "com.comcast" %% "ip4s-core"           % "3.1.3"         
+    ),
+    resolvers ++= Seq(
+      Resolver.mavenCentral,
+      "jitpack" at "https://jitpack.io"
     )
   )
 

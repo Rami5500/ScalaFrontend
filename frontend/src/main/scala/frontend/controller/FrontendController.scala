@@ -18,3 +18,6 @@ object FrontendController {
             .foreach(usersVar.set)
     }
 }
+
+// return view
+// bind information from model

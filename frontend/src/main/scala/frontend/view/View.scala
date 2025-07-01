@@ -15,6 +15,7 @@ object View {
             span(" | "),
             a(href := "#users", "Users", onClick --> (_ => FrontendController.fetchUsers(usersVar)), cls := "nav-link")
         ),
+        // use routes instead of parsing directly
         div(
             cls := "content",
             

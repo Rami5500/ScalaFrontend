@@ -10,7 +10,9 @@ import io.circe.generic.auto.*
 import org.http4s.implicits.*
 import com.comcast.ip4s.*
 import shared.User
+import org.http4s.server.middleware.CORSConfig
 import org.http4s.server.middleware.CORS
+import scala.concurrent.duration.*
 
 
 object Server extends IOApp {
@@ -27,7 +29,13 @@ object Server extends IOApp {
   // }
 
   // val httpApp = CORS.policy.withAllowOriginAll(userRoutes).orNotFound
-  val httpApp = UserController.routes.orNotFound
+
+  // val corsConfig = CORSConfig.default
+  //   .withAllowOriginAll
+  //   .withAllowCredentials(false)
+  //   .withMaxAge(1.day.toSeconds)
+  
+  val httpApp = CORS.policy.withAllowOriginAll(UserController.routes).orNotFound
 
   def run(args: List[String]): IO[ExitCode] = {
     EmberServerBuilder.default[IO]
