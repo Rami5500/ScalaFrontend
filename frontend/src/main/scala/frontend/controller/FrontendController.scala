@@ -11,11 +11,34 @@ import upickle.default.*
 
 object FrontendController {
 
-    def fetchUsers(usersVar: Var[List[User]]): Unit = {
-        Ajax.get("http://localhost:8080/api/users")
-            .map(_.responseText)
-            .map(read[List[User]](_))
+    var jwtToken: Option[String] = None
+
+    def loginAndFetchToken(): Unit = {
+        val loginJson = ujson.Obj("username" -> "test", "password" -> "1234")
+
+        Ajax.post(
+            url = "http://localhost:8080/api/login",
+            data = loginJson.render(),
+            headers = Map("Content-Type" -> "application/json")
+        ).map { response =>
+            val json = ujson.read(response.responseText)
+            jwtToken = Some(json("token").str)
+        }
+    }
+
+    def fetchUsers(): Unit = {
+        jwtToken match {
+            case Some(token) =>
+            Ajax.get(
+                url = "http://localhost:8080/api/users",
+                headers = Map("Authorization" -> s"Bearer $token")
+            ).map(_.responseText)
+            .map(read[List[User]])
             .foreach(usersVar.set)
+
+            case None =>
+            println("No token, please log in first")
+        }
     }
 }
 

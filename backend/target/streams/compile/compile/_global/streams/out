@@ -1,5 +1,23 @@
-[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\GitHub\ScalaFrontend\backend\src\main\scala\backend\controller\UserController.scala:21:2 [0m[0m[0m
-[0m[[0m[33mwarn[0m] [0m[0m[33m21 |[0m  [33mval[0m [36mroutes[0m = HttpRoutes.of[[35mIO[0m] {[0m
-[0m[[0m[33mwarn[0m] [0m[0m[33m[33m   |[0m  ^[0m[0m
-[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m  Line is indented too far to the left, or a `}` is missing[0m
-[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E008] Not Found Error: C:\GitHub\ScalaFrontend\backend\src\main\scala\backend\controller\UserController.scala:15:16 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m15 |[0m[33mimport[0m io.circe.parser._[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m       ^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m   value parser is not a member of io.circe - did you mean circe.Parser?[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E172] Type Error: C:\GitHub\ScalaFrontend\backend\src\main\scala\backend\Server.scala:33:69 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m33 |[0m  [33mval[0m [36mhttpApp[0m = CORS.policy.withAllowOriginAll(UserController.routes).orNotFound[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                                                                     ^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mAmbiguous given instances: both [33mmethod[0m [35mcatsInstancesForList[0m in [33mobject[0m [35mInvariant[0m and [33mmethod[0m [35mcatsInstancesForOption[0m in [33mobject[0m [35mInvariant[0m match type cats.Applicative[F] of an implicit parameter of [33mmethod[0m [35mapply[0m in [33mclass[0m [35mCORSPolicy[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E008] Not Found Error: C:\GitHub\ScalaFrontend\backend\src\main\scala\backend\controller\LoginController.scala:9:30 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m9 |[0m[33mimport[0m pdi.jwt.{JwtAlgorithm, JwtCirce, JwtClaim}[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m                              ^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m     value JwtCirce is not a member of pdi.jwt - did you mean jwt.JwtCore?[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: C:\GitHub\ScalaFrontend\backend\src\main\scala\backend\controller\LoginController.scala:37:4 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m37 |[0m    JwtCirce.encode(claim, secretKey, JwtAlgorithm.HS256)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m    ^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m    Not found: JwtCirce[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E008] Not Found Error: C:\GitHub\ScalaFrontend\backend\src\main\scala\backend\controller\UserController.scala:13:16 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m13 |[0m[33mimport[0m pdi.jwt.{JwtCirce, JwtClaim}[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                ^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m   value JwtCirce is not a member of pdi.jwt - did you mean jwt.JwtCore?[0m
+[0m[[0m[31merror[0m] [0m[0m5 errors found[0m
