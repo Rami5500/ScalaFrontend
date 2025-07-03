@@ -39,6 +39,7 @@ lazy val backend = project
       "org.http4s" %% "http4s-ember-server"  % http4sVersion,
       "org.http4s" %% "http4s-circe"         % http4sVersion,
       "io.circe"   %% "circe-generic"        % circeVersion,
+      "io.circe"   %% "circe-parser" % "0.14.5",
       "com.github.jwt-scala" %% "jwt-core" % "9.4.4",
       "org.typelevel" %% "cats-effect" % "3.5.0",
       "org.http4s" %% "http4s-server" % http4sVersion,

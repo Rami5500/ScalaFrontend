@@ -1,5 +1,48 @@
-[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\GitHub\ScalaFrontend\backend\src\main\scala\backend\controller\UserController.scala:21:2 [0m[0m[0m
-[0m[[0m[33mwarn[0m] [0m[0m[33m21 |[0m  [33mval[0m [36mroutes[0m = HttpRoutes.of[[35mIO[0m] {[0m
-[0m[[0m[33mwarn[0m] [0m[0m[33m[33m   |[0m  ^[0m[0m
-[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m  Line is indented too far to the left, or a `}` is missing[0m
-[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E008] Not Found Error: C:\GitHub\ScalaFrontend\backend\src\main\scala\backend\controller\UserController.scala:11:26 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m11 |[0m[33mimport[0m pdi.jwt.algorithms.JwtAlgorithm[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                          ^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mvalue JwtAlgorithm is not a member of pdi.jwt.algorithms - did you mean algorithms.JwtRSAAlgorithm?[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: C:\GitHub\ScalaFrontend\backend\src\main\scala\backend\controller\UserController.scala:20:13 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m20 |[0m  [33mval[0m [36malgo[0m = JwtAlgorithm.HS256[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m             ^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m             Not found: JwtAlgorithm[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E051] Reference Error: C:\GitHub\ScalaFrontend\backend\src\main\scala\backend\controller\UserController.scala:23:8 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m23 |[0m    Jwt.decode(token, secretKey, Seq(algo)).toEither.left.map(_.getMessage)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m    ^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mAmbiguous overload. The overloaded alternatives of [33mmethod[0m [35mdecode[0m in [33mtrait[0m [35mJwtCore[0m with types[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m (token: String, key: String, algorithms: =>[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m  Seq[pdi.jwt.algorithms.JwtAsymmetricAlgorithm]): util.Try[pdi.jwt.JwtClaim][0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m (token: String, key: String, algorithms:[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m  Seq[pdi.jwt.algorithms.JwtHmacAlgorithm]): util.Try[pdi.jwt.JwtClaim][0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mboth match arguments ((token : String), (backend.controller.UserController.secretKey : String), Seq[Nothing])[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E134] Type Error: C:\GitHub\ScalaFrontend\backend\src\main\scala\backend\controller\UserController.scala:34:18 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m34 |[0m      req.headers.get(org.http4s.headers.Authorization).map(_.credentials.token) [33mmatch[0m {[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m      ^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mNone of the overloaded alternatives of [33mmethod[0m [35mget[0m in [33mclass[0m [35mHeaders[0m with types[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m (key: org.typelevel.ci.CIString):[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m  Option[cats.data.NonEmptyList[org.http4s.Header.Raw]][0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m [A]([33mimplicit [0mev: org.http4s.Header.Select[A]): Option[ev.F[A]][0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mmatch arguments (org.http4s.headers.Authorization.type)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: C:\GitHub\ScalaFrontend\backend\src\main\scala\backend\controller\UserController.scala:36:24 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m36 |[0m          validateToken(token) [33mmatch[0m {[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                        ^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                        Not found: token[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: C:\GitHub\ScalaFrontend\backend\src\main\scala\backend\controller\UserController.scala:38:42 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m38 |[0m              decode[[35mMap[0m[[35mString[0m, [35mString[0m]](claim.content) [33mmatch[0m {[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                                          ^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                                          Not found: claim[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: C:\GitHub\ScalaFrontend\backend\src\main\scala\backend\controller\UserController.scala:45:42 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m45 |[0m              Forbidden([31ms"Invalid token: [0m$err[31m"[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                                          ^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                                          Not found: err[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m7 errors found[0m
