@@ -24,7 +24,8 @@ lazy val frontend = project
     scalaJSUseMainModuleInitializer := true,
     libraryDependencies ++= Seq(
       "com.raquo" %%% "laminar" % "0.14.2",
-      "com.lihaoyi" %%% "upickle" % "3.1.0"
+      "com.lihaoyi" %%% "upickle" % "3.1.0",
+      "com.github.jwt-scala" %% "jwt-core" % "9.4.4"
     )
   )
 

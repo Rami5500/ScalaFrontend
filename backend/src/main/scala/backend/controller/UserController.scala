@@ -8,16 +8,17 @@ import io.circe.syntax.*
 import io.circe.parser.*
 import io.circe.generic.auto.*
 import pdi.jwt.{Jwt, JwtClaim}
-import pdi.jwt.algorithms.JwtAlgorithm
+// import pdi.jwt.algorithms.JwtHmacAlgorithm
 import shared.User
-
 import org.http4s.headers.Authorization
-import org.http4s.Credentials
+import org.typelevel.ci.CIString
 
 object UserController {
 
-  val secretKey = "my-secret"
-  val algo = JwtAlgorithm.HS256
+  val secretKey = "3f5a8c92e0b94a49a8e4b63f7cf08d0e3f5a8c92e0b94a49a8e4b63f7cf08d0e"
+  val algo = pdi.jwt.JwtAlgorithm.HS256
+
+
 
   def validateToken(token: String): Either[String, JwtClaim] = {
     Jwt.decode(token, secretKey, Seq(algo)).toEither.left.map(_.getMessage)
@@ -31,8 +32,8 @@ object UserController {
 
   val routes = HttpRoutes.of[IO] {
     case req @ GET -> Root / "api" / "users" =>
-      req.headers.get(org.http4s.headers.Authorization).map(_.credentials.token) match {
-        case Some(token) =>
+      req.headers.get[Authorization] match {
+        case Some(Authorization(Credentials.Token(AuthScheme.Bearer, token))) =>
           validateToken(token) match {
             case Right(claim) =>
               decode[Map[String, String]](claim.content) match {
@@ -41,10 +42,10 @@ object UserController {
                 case _ =>
                   Forbidden("Invalid token content")
               }
-            case Left(err) =>
-              Forbidden(s"Invalid token: $err")
+            case Left(errorMsg) =>
+              Forbidden(s"Invalid token: $errorMsg")
           }
-        case None =>
+        case _ =>
           Forbidden("Missing token")
       }
   }
