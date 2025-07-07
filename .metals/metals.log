@@ -9801,3 +9801,16 @@ WARNING: Unmatched cancel notification for request id 1543
 2025.07.07 16:35:09 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\frontend\controller\FrontendController.scala. Using presentation compiler with project's scala-library version: 3.3.6
 2025.07.07 16:35:09 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\frontend\view\View.scala. Using presentation compiler with project's scala-library version: 3.3.6
 2025.07.07 16:35:09 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\frontend\controller\FrontendController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.07 16:36:03 INFO  no build target found for C:\GitHub\ScalaFrontend\backend\src\main\scala\backend\controller\UserController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.07 16:36:04 WARN  no build target for: C:\GitHub\ScalaFrontend\backend\src\main\scala\backend\controller\UserController.scala
+2025.07.07 16:36:03 INFO  no build target found for C:\GitHub\ScalaFrontend\backend\src\main\scala\backend\controller\UserController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.07 16:36:04 INFO  no build target found for C:\GitHub\ScalaFrontend\backend\src\main\scala\backend\controller\UserController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.07 16:36:13 INFO  no build target found for C:\GitHub\ScalaFrontend\backend\src\main\scala\backend\controller\UserController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.07 16:36:13 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\frontend\controller\FrontendController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.07 16:36:13 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\frontend\view\View.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.07 16:36:13 INFO  no build target found for C:\GitHub\ScalaFrontend\backend\src\main\scala\backend\controller\UserController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.07 16:38:14 INFO  no build target found for C:\GitHub\ScalaFrontend\backend\src\main\scala\backend\controller\UserController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.07 16:38:14 INFO  no build target found for C:\GitHub\ScalaFrontend\backend\src\main\scala\backend\controller\UserController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.07 16:38:15 INFO  no build target found for C:\GitHub\ScalaFrontend\backend\src\main\scala\backend\controller\UserController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.07 16:38:14 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\frontend\controller\FrontendController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.07 16:38:14 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\frontend\view\View.scala. Using presentation compiler with project's scala-library version: 3.3.6
