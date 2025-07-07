@@ -30,13 +30,16 @@ object FrontendController {
         Ajax.get(
           url = "http://localhost:8080/api/users",
           headers = Map("Authorization" -> s"Bearer $token")
-        ).map(_.responseText)
-         .map(read[List[User]](_))
-         .foreach(usersVar.set)
+        ).map { xhr =>
+          println(s"[FRONTEND] ✅ Received response with status: ${xhr.status}")
+          println(s"[FRONTEND] 📦 Body: ${xhr.responseText}")
+          read[List[User]](xhr.responseText)
+        }.foreach(usersVar.set)
 
       case None =>
         println("JWT not set.")
     }
+    //log information
   }
 }
 

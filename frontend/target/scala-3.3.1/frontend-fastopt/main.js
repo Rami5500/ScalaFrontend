@@ -2893,30 +2893,38 @@ $c_Lfrontend_controller_FrontendController$.prototype.fetchUsers__V = (function(
     var elems = $n($x_1).wrapRefArray__AO__sci_ArraySeq(new ($d_T2.getArrayOf().constr)([new $c_T2("Authorization", y)]));
     var headers$1 = this$3.from__sc_IterableOnce__sci_Map(elems);
     var this$4 = $m_Lorg_scalajs_dom_ext_Ajax$();
-    $n($n($n(this$4.apply__T__T__Lorg_scalajs_dom_ext_Ajax$InputData__I__sci_Map__Z__T__s_concurrent_Future("GET", "http://localhost:8080/api/users", null, 0, headers$1, false, "")).map__F1__s_concurrent_ExecutionContext__s_concurrent_Future(new $c_sjsr_AnonFunction1(((_$1) => $as_T(_$1.responseText))), $m_s_concurrent_ExecutionContext$().global__s_concurrent_ExecutionContextExecutor())).map__F1__s_concurrent_ExecutionContext__s_concurrent_Future(new $c_sjsr_AnonFunction1(((_$2) => {
-      var _$2$1 = $as_T(_$2);
-      var this$12 = $m_Lupickle_default$();
-      var s = new $c_Lujson_Readable$fromTransformer(_$2$1, $m_Lujson_StringParser$());
+    $n($n(this$4.apply__T__T__Lorg_scalajs_dom_ext_Ajax$InputData__I__sci_Map__Z__T__s_concurrent_Future("GET", "http://localhost:8080/api/users", null, 0, headers$1, false, "")).map__F1__s_concurrent_ExecutionContext__s_concurrent_Future(new $c_sjsr_AnonFunction1(((xhr) => {
+      var x = ("[FRONTEND] \u2705 Received response with status: " + $uI(xhr.status));
+      var this$7 = $m_s_Console$();
+      var this$8 = $n(this$7.out__Ljava_io_PrintStream());
+      this$8.java$lang$JSConsoleBasedPrintStream$$printString__T__V((x + "\n"));
+      var x$1 = ("[FRONTEND] \ud83d\udce6 Body: " + $as_T(xhr.responseText));
+      var this$10 = $m_s_Console$();
+      var this$11 = $n(this$10.out__Ljava_io_PrintStream());
+      this$11.java$lang$JSConsoleBasedPrintStream$$printString__T__V((x$1 + "\n"));
+      var this$17 = $m_Lupickle_default$();
+      var s = $as_T(xhr.responseText);
+      var s$1 = new $c_Lujson_Readable$fromTransformer(s, $m_Lujson_StringParser$());
       $m_Lupickle_default$();
       var trace = false;
-      var this$11 = $m_Lupickle_default$();
+      var this$16 = $m_Lupickle_default$();
       var r = $m_Lshared_User$().given_ReadWriter_User__Lupickle_core_Types$ReadWriter();
-      var this$9 = $m_sci_List$();
-      var factory = new $c_sc_IterableFactory$ToFactory(this$9);
-      var evidence$2 = new $c_Lupickle_implicits_Readers$SeqLikeReader(this$11, r, factory);
-      return $as_sci_List($f_Lupickle_Api__read__Lujson_Readable__Z__Lupickle_core_Types$Reader__O(this$12, s, trace, evidence$2));
+      var this$14 = $m_sci_List$();
+      var factory = new $c_sc_IterableFactory$ToFactory(this$14);
+      var evidence$2 = new $c_Lupickle_implicits_Readers$SeqLikeReader(this$16, r, factory);
+      return $as_sci_List($f_Lupickle_Api__read__Lujson_Readable__Z__Lupickle_core_Types$Reader__O(this$17, s$1, trace, evidence$2));
     })), $m_s_concurrent_ExecutionContext$().global__s_concurrent_ExecutionContextExecutor())).foreach__F1__s_concurrent_ExecutionContext__V(new $c_sjsr_AnonFunction1(((value) => {
       var value$1 = $as_sci_List(value);
-      var this$14 = $n(this.Lfrontend_controller_FrontendController$__f_usersVar);
-      $f_Lcom_raquo_airstream_state_Var__set__O__V(this$14, value$1);
+      var this$19 = $n(this.Lfrontend_controller_FrontendController$__f_usersVar);
+      $f_Lcom_raquo_airstream_state_Var__set__O__V(this$19, value$1);
     })), $m_s_concurrent_ExecutionContext$().global__s_concurrent_ExecutionContextExecutor());
     return (void 0);
   }
-  var x = $m_s_None$();
-  if ((x === x1)) {
-    var this$17 = $m_s_Console$();
-    var this$18 = $n(this$17.out__Ljava_io_PrintStream());
-    this$18.java$lang$JSConsoleBasedPrintStream$$printString__T__V("JWT not set.\n");
+  var x$2 = $m_s_None$();
+  if ((x$2 === x1)) {
+    var this$22 = $m_s_Console$();
+    var this$23 = $n(this$22.out__Ljava_io_PrintStream());
+    this$23.java$lang$JSConsoleBasedPrintStream$$printString__T__V("JWT not set.\n");
     return (void 0);
   }
   throw new $c_s_MatchError(x1);
@@ -3074,7 +3082,7 @@ function $c_Lfrontend_view_View$() {
         $n($m_Lcom_raquo_laminar_api_package$().Lcom_raquo_laminar_api_package$__f_L);
         var this$42 = $n(user$1).Lshared_User__f_age;
         var text$2 = ("" + this$42);
-        return $n($x_17).apply__sci_Seq__Lcom_raquo_laminar_nodes_ReactiveHtmlElement($n($x_16).wrapRefArray__AO__sci_ArraySeq(new ($d_Lcom_raquo_domtypes_generic_Modifier.getArrayOf().constr)([$x_15, $x_11, $x_7, $n($x_6).apply__sci_Seq__Lcom_raquo_laminar_nodes_ReactiveHtmlElement($n($x_5).wrapRefArray__AO__sci_ArraySeq(new ($d_Lcom_raquo_domtypes_generic_Modifier.getArrayOf().constr)([$x_4, new $c_Lcom_raquo_laminar_nodes_TextNode(text$2)]))), $n($as_Lcom_raquo_laminar_builders_HtmlTag($n($m_Lcom_raquo_laminar_api_package$().Lcom_raquo_laminar_api_package$__f_L).div__O())).apply__sci_Seq__Lcom_raquo_laminar_nodes_ReactiveHtmlElement($m_sr_ScalaRunTime$().wrapRefArray__AO__sci_ArraySeq(new ($d_Lcom_raquo_domtypes_generic_Modifier.getArrayOf().constr)([$n($as_Lcom_raquo_laminar_builders_HtmlTag($n($m_Lcom_raquo_laminar_api_package$().Lcom_raquo_laminar_api_package$__f_L).b__O())).apply__sci_Seq__Lcom_raquo_laminar_nodes_ReactiveHtmlElement($m_sr_ScalaRunTime$().wrapRefArray__AO__sci_ArraySeq(new ($d_Lcom_raquo_domtypes_generic_Modifier.getArrayOf().constr)([($n($m_Lcom_raquo_laminar_api_package$().Lcom_raquo_laminar_api_package$__f_L), new $c_Lcom_raquo_laminar_nodes_TextNode("Active: "))]))), ($n(user$1).Lshared_User__f_isActive ? ($n($m_Lcom_raquo_laminar_api_package$().Lcom_raquo_laminar_api_package$__f_L), new $c_Lcom_raquo_laminar_nodes_TextNode("\u00e2\u0153\u2026")) : ($n($m_Lcom_raquo_laminar_api_package$().Lcom_raquo_laminar_api_package$__f_L), new $c_Lcom_raquo_laminar_nodes_TextNode("\u00e2\u009d\u0152")))])))])));
+        return $n($x_17).apply__sci_Seq__Lcom_raquo_laminar_nodes_ReactiveHtmlElement($n($x_16).wrapRefArray__AO__sci_ArraySeq(new ($d_Lcom_raquo_domtypes_generic_Modifier.getArrayOf().constr)([$x_15, $x_11, $x_7, $n($x_6).apply__sci_Seq__Lcom_raquo_laminar_nodes_ReactiveHtmlElement($n($x_5).wrapRefArray__AO__sci_ArraySeq(new ($d_Lcom_raquo_domtypes_generic_Modifier.getArrayOf().constr)([$x_4, new $c_Lcom_raquo_laminar_nodes_TextNode(text$2)]))), $n($as_Lcom_raquo_laminar_builders_HtmlTag($n($m_Lcom_raquo_laminar_api_package$().Lcom_raquo_laminar_api_package$__f_L).div__O())).apply__sci_Seq__Lcom_raquo_laminar_nodes_ReactiveHtmlElement($m_sr_ScalaRunTime$().wrapRefArray__AO__sci_ArraySeq(new ($d_Lcom_raquo_domtypes_generic_Modifier.getArrayOf().constr)([$n($as_Lcom_raquo_laminar_builders_HtmlTag($n($m_Lcom_raquo_laminar_api_package$().Lcom_raquo_laminar_api_package$__f_L).b__O())).apply__sci_Seq__Lcom_raquo_laminar_nodes_ReactiveHtmlElement($m_sr_ScalaRunTime$().wrapRefArray__AO__sci_ArraySeq(new ($d_Lcom_raquo_domtypes_generic_Modifier.getArrayOf().constr)([($n($m_Lcom_raquo_laminar_api_package$().Lcom_raquo_laminar_api_package$__f_L), new $c_Lcom_raquo_laminar_nodes_TextNode("Active: "))]))), ($n(user$1).Lshared_User__f_isActive ? ($n($m_Lcom_raquo_laminar_api_package$().Lcom_raquo_laminar_api_package$__f_L), new $c_Lcom_raquo_laminar_nodes_TextNode("\u2705")) : ($n($m_Lcom_raquo_laminar_api_package$().Lcom_raquo_laminar_api_package$__f_L), new $c_Lcom_raquo_laminar_nodes_TextNode("\u274c")))])))])));
       });
       if ((this$48 === $m_sci_Nil$())) {
         var $x_18 = $m_sci_Nil$();

@@ -37,7 +37,7 @@ object View {
               div(b("Name: "), user.name),
               div(b("Email: "), user.email),
               div(b("Age: "), user.age.toString),
-              div(b("Active: "), if (user.isActive) "âœ…" else "âŒ")
+              div(b("Active: "), if (user.isActive) "✅" else "❌")
             )
           ))
         )

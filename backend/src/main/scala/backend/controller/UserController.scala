@@ -32,20 +32,42 @@ object UserController {
 
   val routes = HttpRoutes.of[IO] {
     case req @ GET -> Root / "api" / "users" =>
+      println("[INFO] Incoming request to /api/users")
+
       req.headers.get[Authorization] match {
         case Some(Authorization(Credentials.Token(AuthScheme.Bearer, token))) =>
+          println(s"[INFO] ✅ JWT token received: $token")
+
           validateToken(token) match {
             case Right(claim) =>
+              println(s"[INFO] Token successfully validated")
+              println(s"[INFO] Token payload: ${claim.content}")
+
               decode[Map[String, String]](claim.content) match {
-                case Right(payload) if payload.get("role").contains("admin") =>
-                  Ok(users.asJson)
-                case _ =>
+                case Right(payload) =>
+                  val role = payload.getOrElse("role", "unknown")
+                  println(s"[INFO] 🧾 Role in token: $role")
+
+                  if (role == "admin") {
+                    println("[SUCCESS] Authorized as admin. Returning users list.")
+                    Ok(users.asJson)
+                  } else {
+                    println(s"[WARN] Unauthorized role: $role")
+                    Forbidden("Invalid token content")
+                  }
+
+                case Left(err) =>
+                  println(s"[ERROR] Failed to decode token content: $err")
                   Forbidden("Invalid token content")
               }
+
             case Left(errorMsg) =>
+              println(s"[ERROR] Token validation failed: $errorMsg")
               Forbidden(s"Invalid token: $errorMsg")
           }
-        case _ =>
+
+        case None =>
+          println("[ERROR] Missing Authorization header")
           Forbidden("Missing token")
       }
   }
