@@ -9819,3 +9819,14 @@ WARNING: Unmatched cancel notification for request id 1543
 2025.07.07 16:39:53 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\frontend\controller\FrontendController.scala. Using presentation compiler with project's scala-library version: 3.3.6
 2025.07.07 16:39:53 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\frontend\view\View.scala. Using presentation compiler with project's scala-library version: 3.3.6
 2025.07.07 16:39:54 INFO  no build target found for C:\GitHub\ScalaFrontend\backend\src\main\scala\backend\controller\UserController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.07 16:40:20 INFO  no build target found for C:\GitHub\ScalaFrontend\backend\src\main\scala\backend\controller\UserController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.07 16:40:20 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\frontend\view\View.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.07 16:40:20 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\frontend\controller\FrontendController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.07 16:40:20 INFO  no build target found for C:\GitHub\ScalaFrontend\backend\src\main\scala\backend\controller\UserController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.07 16:40:20 INFO  no build target found for C:\GitHub\ScalaFrontend\backend\src\main\scala\backend\controller\UserController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.07 16:41:14 INFO  no build target found for C:\GitHub\ScalaFrontend\backend\src\main\scala\backend\controller\UserController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.07 16:41:14 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\frontend\controller\FrontendController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.07 16:41:14 INFO  no build target found for C:\GitHub\ScalaFrontend\frontend\src\main\scala\frontend\view\View.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.07 16:41:15 INFO  no build target found for C:\GitHub\ScalaFrontend\backend\src\main\scala\backend\controller\UserController.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Jul 07, 2025 4:41:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1757
