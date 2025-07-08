@@ -1,2 +1,24 @@
-[0m[[0m[33mwarn[0m] [0m[0mthere were 5 deprecation warnings; re-run with -deprecation for details[0m
-[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E008] Not Found Error: C:\GitHub\ScalaFrontend\frontend\src\main\scala\frontend\view\View.scala:40:4 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m24 |[0m    div([0m
+[0m[[0m[31merror[0m] [0m[0m[31m25 |[0m      h2([31m"Zip Code Lookup"[0m),[0m
+[0m[[0m[31merror[0m] [0m[0m[31m26 |[0m      div([0m
+[0m[[0m[31merror[0m] [0m[0m[31m27 |[0m        label([31m"Enter Zip Code: "[0m),[0m
+[0m[[0m[31merror[0m] [0m[0m[31m28 |[0m        input([0m
+[0m[[0m[31merror[0m] [0m[0m[31m29 |[0m          typ := [31m"text"[0m,[0m
+[0m[[0m[31merror[0m] [0m[0m[31m30 |[0m          onInput.mapToValue --> zipCodeVar[0m
+[0m[[0m[31merror[0m] [0m[0m[31m31 |[0m        ),[0m
+[0m[[0m[31merror[0m] [0m[0m[31m32 |[0m        button([31m"Search"[0m, onClick --> { _ =>[0m
+[0m[[0m[31merror[0m] [0m[0m[31m33 |[0m          ZipCodeController.lookupZip(zipCodeVar.now(), errorMessageVar, resultAddressVar)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m34 |[0m        })[0m
+[0m[[0m[31merror[0m] [0m[0m[31m35 |[0m      ),[0m
+[0m[[0m[31merror[0m] [0m[0m[31m36 |[0m      child.maybe <-- errorMessageVar.signal.map(_.map([36mmsg[0m => div(color := [31m"red"[0m, msg))),[0m
+[0m[[0m[31merror[0m] [0m[0m[31m37 |[0m      child.maybe <-- resultAddressVar.signal.map(_.map([36maddr[0m => div(color := [31m"green"[0m, [31ms"Address: [0m$addr[31m"[0m)))[0m
+[0m[[0m[31merror[0m] [0m[0m[31m38 |[0m    )[0m
+[0m[[0m[31merror[0m] [0m[0m[31m39 |[0m    [0m
+[0m[[0m[31merror[0m] [0m[0m[31m40 |[0m    div([0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m    ^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mvalue div is not a member of com.raquo.laminar.nodes.ReactiveHtmlElement[org.scalajs.dom.html.Div].[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mNote that `div` is treated as an infix operator in Scala 3.[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mIf you do not want that, insert a `;` or empty line in front[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mor drop any spaces behind the operator.[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

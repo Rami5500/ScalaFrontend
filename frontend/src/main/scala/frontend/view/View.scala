@@ -2,9 +2,16 @@ package frontend.view
 
 import com.raquo.laminar.api.L.*
 import frontend.controller.FrontendController
+import frontend.controller.ZipCodeController
+import org.scalajs.dom
 import shared.User
 
 object View {
+
+  val zipCodeVar = Var("")
+  val errorMessageVar = Var(Option.empty[String])
+  val resultAddressVar = Var(Option.empty[String])
+
   val appElement = div(
     h1("Frontend Portal", cls := "title"),
     nav(
@@ -13,6 +20,7 @@ object View {
       span(" | "),
       a(href := "#users", "Users", onClick --> (_ => FrontendController.fetchUsers()), cls := "nav-link")
     ),
+
     div(
       cls := "content",
 
@@ -42,6 +50,21 @@ object View {
           ))
         )
       }
+    ),
+    div(
+      h2("Zip Code Lookup"),
+      div(
+        label("Enter Zip Code: "),
+        input(
+          typ := "text",
+          onInput.mapToValue --> zipCodeVar
+        ),
+        button("Search", onClick --> { _ =>
+          ZipCodeController.lookupZip(zipCodeVar.now(), errorMessageVar, resultAddressVar)
+        })
+      ),
+      child.maybe <-- errorMessageVar.signal.map(_.map(msg => div(color := "red", msg))),
+      child.maybe <-- resultAddressVar.signal.map(_.map(addr => div(color := "green", s"Address: $addr")))
     ),
     footer(
       cls := "footer",

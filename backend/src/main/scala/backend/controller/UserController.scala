@@ -46,7 +46,7 @@ object UserController {
               decode[Map[String, String]](claim.content) match {
                 case Right(payload) =>
                   val role = payload.getOrElse("role", "unknown")
-                  println(s"[INFO] 🧾 Role in token: $role")
+                  println(s"[INFO] Role in token: $role")
 
                   if (role == "admin") {
                     println("[SUCCESS] Authorized as admin. Returning users list.")

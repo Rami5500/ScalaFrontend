@@ -32,7 +32,7 @@ object FrontendController {
           headers = Map("Authorization" -> s"Bearer $token")
         ).map { xhr =>
           println(s"[FRONTEND] ✅ Received response with status: ${xhr.status}")
-          println(s"[FRONTEND] 📦 Body: ${xhr.responseText}")
+          println(s"[FRONTEND] Body: ${xhr.responseText}")
           read[List[User]](xhr.responseText)
         }.foreach(usersVar.set)
 
