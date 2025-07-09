@@ -1,1 +1,23 @@
-[0m[[0m[0mdebug[0m] [0m[0mJar uptodate: C:\GitHub\ScalaFrontend\backend\target\scala-3.3.1\backend_3-0.1.0-SNAPSHOT.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\GitHub\ScalaFrontend\backend\target\scala-3.3.1\backend_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	backend[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\GitHub\ScalaFrontend\backend\target\scala-3.3.1\classes\backend[0m
+[0m[[0m[0mdebug[0m] [0m[0m	backend\controller[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\GitHub\ScalaFrontend\backend\target\scala-3.3.1\classes\backend\controller[0m
+[0m[[0m[0mdebug[0m] [0m[0m	backend\controller\UserController$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\GitHub\ScalaFrontend\backend\target\scala-3.3.1\classes\backend\controller\UserController$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	backend\controller\UserController$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\GitHub\ScalaFrontend\backend\target\scala-3.3.1\classes\backend\controller\UserController$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	backend\controller\UserController$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\GitHub\ScalaFrontend\backend\target\scala-3.3.1\classes\backend\controller\UserController$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	backend\controller\UserController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\GitHub\ScalaFrontend\backend\target\scala-3.3.1\classes\backend\controller\UserController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	backend\controller\UserController.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\GitHub\ScalaFrontend\backend\target\scala-3.3.1\classes\backend\controller\UserController.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	backend\Server$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\GitHub\ScalaFrontend\backend\target\scala-3.3.1\classes\backend\Server$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	backend\Server.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\GitHub\ScalaFrontend\backend\target\scala-3.3.1\classes\backend\Server.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	backend\Server.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\GitHub\ScalaFrontend\backend\target\scala-3.3.1\classes\backend\Server.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
