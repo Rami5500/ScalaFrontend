@@ -11,18 +11,22 @@ object View {
   val zipCodeVar = Var("")
   val errorMessageVar = Var(Option.empty[String])
   val resultAddressVar = Var(Option.empty[String])
+  val livesHereVar = Var(Option.empty[Boolean])
 
   val appElement = div(
     cls := "app-container",
 
     header(
       cls := "main-header",
-      div(cls := "header-title", "Frontend Portal"),
-      nav(
-        cls := "navbar",
-        a(href := "#", "Home", onClick --> (_ => FrontendController.usersVar.set(Nil)), cls := "nav-link"),
-        span(" | "),
-        a(href := "#users", "Users", onClick --> (_ => FrontendController.fetchUsers()), cls := "nav-link")
+      div(
+        cls := "header-left",
+        div(cls := "header-title", "Frontend Portal"),
+        nav(
+          cls := "navbar",
+          a(href := "#", "Home", onClick --> (_ => FrontendController.usersVar.set(Nil)), cls := "nav-link"),
+          span(" | "),
+          a(href := "#users", "Users", onClick --> (_ => FrontendController.fetchUsers()), cls := "nav-link")
+        )
       )
     ),
 
@@ -50,6 +54,46 @@ object View {
             child.maybe <-- resultAddressVar.signal.map(_.map(addr =>
               div(cls := "zip-result", s"Address: $addr")
             )),
+            child.maybe <-- resultAddressVar.signal.map {
+            case Some(_) => Some(
+              div(
+                label(
+                  input(
+                    typ := "radio",
+                    name := "livesHere",
+                    onChange.mapTo(Some(true)) --> livesHereVar.writer
+                  ),
+                  " Yes, I live here"
+                ),
+                label(
+                  input(
+                    typ := "radio",
+                    name := "livesHere",
+                    onChange.mapTo(Some(false)) --> livesHereVar.writer
+                  ),
+                  " No, I do not live here"
+                )
+              )
+            )
+            case None => None
+          },
+
+          child.maybe <-- livesHereVar.signal.map {
+            case Some(_) => Some(
+              button(
+                "Next",
+                onClick --> { _ =>
+                  println(s"[STEP 6] Lives here selected: ${livesHereVar.now()}")
+                  if (livesHereVar.now().contains(true)) {
+                    println("[INFO] ✅ User confirmed they live at this address.")
+                  } else {
+                    println("[INFO] ❌ User said they do NOT live there.")
+                  }
+                }
+              )
+            )
+            case None => None
+          },
             div(cls := "zip-links",
               a(href := "#", "Alias Addresses", cls := "zip-link"), br(),
               a(href := "#", "Can't find the address you're looking for?", cls := "zip-link"), br(),
