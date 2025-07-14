@@ -18,7 +18,19 @@ object UserController {
   val secretKey = "3f5a8c92e0b94a49a8e4b63f7cf08d0e3f5a8c92e0b94a49a8e4b63f7cf08d0e"
   val algo = pdi.jwt.JwtAlgorithm.HS256
 
+  object LivesHereQueryParamMatcher extends QueryParamDecoderMatcher[String]("liveshere")
 
+  def createToken(livesHere: Boolean): String = {
+    val claimContent =
+      if (livesHere) """{"role":"admin", "liveshere":"true"}"""
+      else """{"role":"admin", "liveshere":"false"}"""
+
+    val claim = pdi.jwt.JwtClaim(
+      content = claimContent
+    )
+
+    pdi.jwt.Jwt.encode(claim, secretKey, pdi.jwt.JwtAlgorithm.HS256)
+  }
 
   def validateToken(token: String): Either[String, JwtClaim] = {
     Jwt.decode(token, secretKey, Seq(algo)).toEither.left.map(_.getMessage)
@@ -36,7 +48,7 @@ object UserController {
 
       req.headers.get[Authorization] match {
         case Some(Authorization(Credentials.Token(AuthScheme.Bearer, token))) =>
-          println(s"[INFO] ✅ JWT token received: $token")
+          println(s"[INFO] JWT token received: $token")
 
           validateToken(token) match {
             case Right(claim) =>
@@ -70,6 +82,19 @@ object UserController {
           println("[ERROR] Missing Authorization header")
           Forbidden("Missing token")
       }
+    
+    case req @ GET -> Root / "api" / "validate" :? LivesHereQueryParamMatcher(liveshere) =>
+      println(s"[BACKEND] Working Validate request: liveshere=$liveshere")
+
+      if (liveshere == "true") {
+        Ok("🎉 Welcome! You’re authorized.")
+      } else {
+        Forbidden("You are not authorised to view this information.")
+      }
+
+    case GET -> Root / "api" / "generate-token" :? LivesHereQueryParamMatcher(livesHere) =>
+      val token = createToken(livesHere.toBoolean)
+      Ok(token)     
   }
 }
 

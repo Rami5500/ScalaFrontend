@@ -1,5 +1,5 @@
-[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- [E029] Pattern Match Exhaustivity Warning: C:\GitHub\ScalaFrontend\backend\src\main\scala\backend\controller\UserController.scala:37:6 [0m[0m[0m
-[0m[[0m[33mwarn[0m] [0m[0m[33m37 |[0m      req.headers.get[[35mAuthorization[0m] [33mmatch[0m {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- [E029] Pattern Match Exhaustivity Warning: C:\GitHub\ScalaFrontend\backend\src\main\scala\backend\controller\UserController.scala:49:6 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m49 |[0m      req.headers.get[[35mAuthorization[0m] [33mmatch[0m {[0m
 [0m[[0m[33mwarn[0m] [0m[0m[33m[33m   |[0m      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m[0m
 [0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m      [33mmatch[0m may not be exhaustive.[0m
 [0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m[0m
