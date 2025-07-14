@@ -12,6 +12,7 @@ object View {
   val errorMessageVar = Var(Option.empty[String])
   val resultAddressVar = Var(Option.empty[String])
   val livesHereVar = Var(Option.empty[Boolean])
+  val validationMessageVar = Var(Option.empty[String])
 
   val appElement = div(
     cls := "app-container",
@@ -89,13 +90,19 @@ object View {
                         println("[INFO] ✅ User confirmed they live at this address.")
                         Ajax.get("http://localhost:8080/api/validate?liveshere=true")
                           .map(_.responseText)
-                          .foreach(response => println(s"[VALIDATION] Server says: $response"))
+                          .foreach(response => {
+                            println(s"[VALIDATION] Server says: $response")
+                            validationMessageVar.set(Some(response))
+                          })
 
                       case Some(false) =>
                         println("[INFO] ❌ User said they do NOT live there.")
                         Ajax.get("http://localhost:8080/api/validate?liveshere=false")
                           .map(_.responseText)
-                          .foreach(response => println(s"[VALIDATION] Server says: $response"))
+                          .foreach(response => {
+                            println(s"[VALIDATION] Server says: $response")
+                            validationMessageVar.set(Some(response))
+                          })
 
                       case None =>
                         println("[WARN] No selection made.")
@@ -105,6 +112,9 @@ object View {
               )
               case None => None
             },
+            child.maybe <-- validationMessageVar.signal.map(_.map(msg =>
+              div(cls := "validation-message", msg)
+            )),
             div(cls := "zip-links",
               a(href := "#", "Alias Addresses", cls := "zip-link"), br(),
               a(href := "#", "Can't find the address you're looking for?", cls := "zip-link"), br(),
