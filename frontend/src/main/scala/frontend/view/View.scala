@@ -14,6 +14,35 @@ object View {
   val livesHereVar = Var(Option.empty[Boolean])
   val validationMessageVar = Var(Option.empty[String])
 
+  val selectedAddressVar = Var(Option.empty[String])
+
+  val addressInput = input(
+    cls := "zip-input",
+    typ := "text",
+    placeholder := "E.g. 'CR0 3RL' or '36 Factory Lane'",
+    onInput.mapToValue --> Observer[String] { value =>
+      zipCodeVar.set(value)
+      ZipCodeController.lookupZip(value, errorMessageVar)
+    }
+  )
+
+  val suggestionsDropdown = ul(
+    cls := "suggestions-dropdown",
+    children <-- ZipCodeController.suggestionsVar.signal.map { suggestions =>
+      suggestions.map { suggestion =>
+        li(
+          cls := "suggestion-item",
+          suggestion,
+          onClick --> { _ =>
+            selectedAddressVar.set(Some(suggestion))
+            zipCodeVar.set(suggestion)
+            ZipCodeController.suggestionsVar.set(Nil)
+          }
+        )
+      }
+    }
+  )
+
   val appElement = div(
     cls := "app-container",
 
@@ -38,24 +67,17 @@ object View {
           div(cls := "zip-section",
             h2("Find an address", cls := "zip-heading"),
             p("Type a part of address or postcode to begin", cls := "zip-subtitle"),
-            div(cls := "zip-input-group",
-              input(
-                cls := "zip-input",
-                typ := "text",
-                placeholder := "E.g. 'CRO 3RL' or '36 Factory Lane'",
-                onInput.mapToValue --> zipCodeVar
-              ),
-              button("Search", cls := "zip-button", onClick --> { _ =>
-                ZipCodeController.lookupZip(zipCodeVar.now(), errorMessageVar, resultAddressVar)
-              })
+            div(cls := "zip-input-group input-wrapper",
+              addressInput,
+              suggestionsDropdown
             ),
             child.maybe <-- errorMessageVar.signal.map(_.map(msg =>
               div(cls := "zip-error", msg)
             )),
-            child.maybe <-- resultAddressVar.signal.map(_.map(addr =>
+            child.maybe <-- selectedAddressVar.signal.map(_.map(addr =>
               div(cls := "zip-result", s"Address: $addr")
             )),
-            child.maybe <-- resultAddressVar.signal.map {
+            child.maybe <-- selectedAddressVar.signal.map {
               case Some(_) => Some(
                 div(
                   label(
@@ -80,41 +102,33 @@ object View {
             },
             child.maybe <-- livesHereVar.signal.map {
               case Some(_) => Some(
-                button(
-                  "Next",
-                  onClick --> { _ =>
-                    println(s"[STEP 6] Lives here selected: ${livesHereVar.now()}")
+                button("Next", onClick --> { _ =>
+                  println(s"[STEP 6] Lives here selected: ${livesHereVar.now()}")
+                  val url = if (livesHereVar.now().contains(true))
+                    "http://localhost:8080/api/validate?liveshere=true"
+                  else
+                    "http://localhost:8080/api/validate?liveshere=false"
 
-                    livesHereVar.now() match {
-                      case Some(true) =>
-                        println("[INFO] ✅ User confirmed they live at this address.")
-                        Ajax.get("http://localhost:8080/api/validate?liveshere=true")
-                          .map(_.responseText)
-                          .foreach(response => {
-                            println(s"[VALIDATION] Server says: $response")
-                            validationMessageVar.set(Some(response))
-                          })
+                  Ajax.get(url).onComplete {
+                    case scala.util.Success(xhr) =>
+                      if (xhr.status == 200) {
+                        validationMessageVar.set(Some(xhr.responseText))
+                      } else {
+                        validationMessageVar.set(Some(s"Validation failed: ${xhr.responseText}"))
+                      }
 
-                      case Some(false) =>
-                        println("[INFO] ❌ User said they do NOT live there.")
-                        Ajax.get("http://localhost:8080/api/validate?liveshere=false")
-                          .map(_.responseText)
-                          .foreach(response => {
-                            println(s"[VALIDATION] Server says: $response")
-                            validationMessageVar.set(Some(response))
-                          })
-
-                      case None =>
-                        println("[WARN] No selection made.")
-                    }
+                    case scala.util.Failure(ex) =>
+                      println(s"[ERROR] Request failed: ${ex.getMessage}")
+                      validationMessageVar.set(Some("Network error or server unavailable."))
                   }
-                )
+                })
               )
               case None => None
             },
             child.maybe <-- validationMessageVar.signal.map(_.map(msg =>
               div(cls := "validation-message", msg)
             )),
+
             div(cls := "zip-links",
               a(href := "#", "Alias Addresses", cls := "zip-link"), br(),
               a(href := "#", "Can't find the address you're looking for?", cls := "zip-link"), br(),
@@ -122,6 +136,7 @@ object View {
             )
           )
         )
+
         case users => div(
           ul(cls := "user-list",
             children <-- Val(users.map(user =>

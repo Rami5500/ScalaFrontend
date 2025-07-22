@@ -1,2 +1,11 @@
-[0m[[0m[33mwarn[0m] [0m[0mthere were 28 deprecation warnings; re-run with -deprecation for details[0m
-[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E008] Not Found Error: C:\GitHub\ScalaFrontend\frontend\src\main\scala\frontend\view\View.scala:118:20 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m112 |[0m                  Ajax.get(url).foreach { [36mxhr[0m =>[0m
+[0m[[0m[31merror[0m] [0m[0m[31m113 |[0m                    [33mif[0m (xhr.status == [31m200[0m) {[0m
+[0m[[0m[31merror[0m] [0m[0m[31m114 |[0m                      validationMessageVar.set(Some(xhr.responseText))[0m
+[0m[[0m[31merror[0m] [0m[0m[31m115 |[0m                    } [33melse[0m {[0m
+[0m[[0m[31merror[0m] [0m[0m[31m116 |[0m                      validationMessageVar.set(Some([31ms"Validation failed: [0m${xhr.responseText}[31m"[0m))[0m
+[0m[[0m[31merror[0m] [0m[0m[31m117 |[0m                    }[0m
+[0m[[0m[31merror[0m] [0m[0m[31m118 |[0m                  }.recover {[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m    |[0m                  ^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m                  value recover is not a member of Unit[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

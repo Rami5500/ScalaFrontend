@@ -1,55 +1,37 @@
 package frontend.controller
 
 import com.raquo.laminar.api.L._
-import org.scalajs.dom
 import org.scalajs.dom.ext.Ajax
-import upickle.default._
 import scala.concurrent.ExecutionContext.Implicits.global
 
 object ZipCodeController {
 
+  val suggestionsVar: Var[List[String]] = Var(Nil)
+
   def lookupZip(
-      zip: String,
-      errorVar: Var[Option[String]],
-      addressVar: Var[Option[String]]
+      query: String,
+      errorVar: Var[Option[String]]
   ): Unit = {
-    val sanitizedZip = zip.trim.replaceAll(" ", "")
-    val fullUrl = s"https://api.postcodes.io/postcodes/$sanitizedZip"
+    val sanitized = query.trim
+    val apiUrl = s"https://api.postcodes.io/postcodes?q=$sanitized"
 
-    println(s"[INFO] Calling Postcodes.io API: $fullUrl")
+    println(s"[INFO] 🔍 Calling Postcodes.io API: $apiUrl")
+    suggestionsVar.set(Nil)
+    errorVar.set(None)
 
-    Ajax.get(fullUrl).map(_.responseText).foreach { response =>
-      try {
-        val address = extractAddressFromPostcode(response)
-        address match {
-          case Some(addr) =>
-            errorVar.set(None)
-            addressVar.set(Some(addr))
-            println(s"[SUCCESS] Address found: $addr")
-          case None =>
-            errorVar.set(Some("No address found."))
-            addressVar.set(None)
-        }
-      } catch {
-        case e: Exception =>
-          println(s"[ERROR] Failed to parse response: ${e.getMessage}")
-          errorVar.set(Some("Invalid postcode or API error."))
-          addressVar.set(None)
+    Ajax.get(apiUrl).map(_.responseText).foreach { response =>
+      val json = ujson.read(response)
+      val results = json("result").arrOpt.getOrElse(Seq.empty)
+
+      if (results.isEmpty) {
+        errorVar.set(Some(s"We couldn't find any matches for: '$query'. Try checking the spelling and searching again."))
+      } else {
+        val addresses = results.map(r =>
+          s"${r("admin_district").str}, ${r("region").str}, ${r("country").str}, ${r("postcode").str}"
+        ).toList
+
+        suggestionsVar.set(addresses)
       }
     }
-  }
-
-  def extractAddressFromPostcode(json: String): Option[String] = {
-    val parsed = ujson.read(json)
-    val result = parsed("result")
-
-    if (result.isNull) return None
-
-    val postcode = result("postcode").str
-    val region = result("region").str
-    val adminDistrict = result("admin_district").str
-    val country = result("country").str
-
-    Some(s"$adminDistrict, $region, $country, $postcode")
   }
 }

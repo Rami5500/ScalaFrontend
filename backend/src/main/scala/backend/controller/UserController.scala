@@ -87,7 +87,7 @@ object UserController {
       println(s"[BACKEND] Working Validate request: liveshere=$liveshere")
 
       if (liveshere == "true") {
-        Ok("🎉 Welcome! You’re authorized.")
+        Ok("Welcome! You’re authorized.")
       } else {
         Forbidden("You are not authorised to view this information.")
       }

@@ -6,6 +6,35 @@ body {
   padding: 0;
 }
 
+.input-wrapper {
+  position: relative;
+  width: 300px;
+}
+
+.suggestions-dropdown {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 300px;
+  max-height: 200px;
+  overflow-y: auto;
+  background: white;
+  z-index: 1000;
+  padding: 0;
+  margin: 4px 0 0 0;
+  list-style: none;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.suggestion-item {
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.suggestion-item:hover {
+  background-color: #f0f0f0;
+}
+
 .radio-buttons {
   margin-top: 10px;
   font-size: 1rem;
